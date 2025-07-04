@@ -4,7 +4,7 @@ This mini-project simulates cytokine concentration data (e.g., IL-6, TNF-alpha) 
 
 ## Purpose
 
-To showcase:
+To demonstrate:
 - R proficiency with data wrangling and visualization
 - Understanding of immunological assay analysis (e.g., ELISA)
 - Communication of biological insights from experimental data
