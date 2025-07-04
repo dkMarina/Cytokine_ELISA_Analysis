@@ -23,9 +23,8 @@ To demonstrate:
 4. **Conducts basic t-tests** to compare Control vs. Stimulated groups
 
 ## Example Plot
-
-![Cytokine Boxplots](cytokine_plot.png)
-
+ [View Cytokine Boxplot](assets/cytokine_plot.png)
+ 
 ## Files Included
 
 - `cytokine_elisa_data.csv`: simulated data
